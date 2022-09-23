@@ -1,0 +1,8 @@
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\bin\Debug\SymbolsMapRenderer.exe
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\bin\Debug\SymbolsMapRenderer.pdb
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.Properties.Resources.resources
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.csproj.GenerateResource.cache
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.exe
+C:\VisualStudioProjects\SymbolsMapRenderer\SymbolsMapRenderer\obj\Debug\SymbolsMapRenderer.pdb
